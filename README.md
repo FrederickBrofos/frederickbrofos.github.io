@@ -4,6 +4,8 @@ This website hosts a collection of essays and other memorabilia authored by Fred
 
 ### Volume One
 
+1. [Cover Page](./assets/pdfs/essays/BROFOS_ESSAYS_v1_cover.pdf)
+
 ### Volume Two
 
 You can use the [editor on GitHub](https://github.com/FrederickBrofos/frederickbrofos.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

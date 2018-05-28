@@ -28,3 +28,16 @@ This website archives a collection of essays and other memorabilia authored by F
 11. [Pages 324-351](./assets/pdfs/essays/BROFOS_ESSAYS_v2_pages_324_351.pdf)
 12. [Pages 352-378](./assets/pdfs/essays/BROFOS_ESSAYS_v2_pages_352_378.pdf)
 13. [Pages 379-410](./assets/pdfs/essays/BROFOS_ESSAYS_v2_pages_379_410.pdf)
+
+### Railway, Steamship, and Carrier Stamps of Norway
+
+1. [Part I](./assets/pdfs/essays/BROFOS_RAILWAY_STEAMSHIP_AND_CARRIER_STAMPS_OF_NORWAY_I.pdf)
+2. [Part II](./assets/pdfs/essays/BROFOS_RAILWAY_STEAMSHIP_AND_CARRIER_STAMPS_OF_NORWAY_II.pdf)
+3. [Part III](./assets/pdfs/essays/BROFOS_RAILWAY_STEAMSHIP_AND_CARRIER_STAMPS_OF_NORWAY_III.pdf)
+4. [Part IV](./assets/pdfs/essays/BROFOS_RAILWAY_STEAMSHIP_AND_CARRIER_STAMPS_OF_NORWAY_IV.pdf)
+5. [Part V](./assets/pdfs/essays/BROFOS_RAILWAY_STEAMSHIP_AND_CARRIER_STAMPS_OF_NORWAY_V.pdf)
+6. [Part VI](./assets/pdfs/essays/BROFOS_RAILWAY_STEAMSHIP_AND_CARRIER_STAMPS_OF_NORWAY_VI.pdf)
+7. [Part VII](./assets/pdfs/essays/BROFOS_RAILWAY_STEAMSHIP_AND_CARRIER_STAMPS_OF_NORWAY_VII.pdf) and [VIIA](./assets/pdfs/essays/BROFOS_RAILWAY_STEAMSHIP_AND_CARRIER_STAMPS_OF_NORWAY_VIIA.pdf)
+8. [Part VIII](./assets/pdfs/essays/BROFOS_RAILWAY_STEAMSHIP_AND_CARRIER_STAMPS_OF_NORWAY_VIII.pdf)
+9. [Part IX](./assets/pdfs/essays/BROFOS_RAILWAY_STEAMSHIP_AND_CARRIER_STAMPS_OF_NORWAY_IX.pdf)
+

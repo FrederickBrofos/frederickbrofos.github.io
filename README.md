@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Philatelic Essays by Frederick Brofos
+
+This website hosts a collection of essays and other memorabilia authored by Frederick Brofos.
+
+### Volume One
+
+### Volume Two
 
 You can use the [editor on GitHub](https://github.com/FrederickBrofos/frederickbrofos.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

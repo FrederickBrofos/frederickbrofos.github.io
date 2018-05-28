@@ -15,38 +15,16 @@ This website hosts a collection of essays and other memorabilia authored by Fred
 
 ### Volume Two
 
-You can use the [editor on GitHub](https://github.com/FrederickBrofos/frederickbrofos.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FrederickBrofos/frederickbrofos.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. [Cover Page](./assets/pdfs/essays/BROFOS_ESSAYS_v2_cover.pdf)
+2. [Pages 1-31](./assets/pdfs/essays/BROFOS_ESSAYS_v2_pages_1_31.pdf)
+3. [Pages 32-59](./assets/pdfs/essays/BROFOS_ESSAYS_v2_pages_32_59.pdf)
+4. [Pages 60-77](./assets/pdfs/essays/BROFOS_ESSAYS_v2_pages_60_77.pdf)
+5. [Pages 78-129](./assets/pdfs/essays/BROFOS_ESSAYS_v2_pages_78_129.pdf)
+6. [Pages 130-175](./assets/pdfs/essays/BROFOS_ESSAYS_v2_pages_130_175.pdf)
+7. [Pages 176-213](./assets/pdfs/essays/BROFOS_ESSAYS_v2_pages_176_213.pdf)
+8. [Pages 214-265](./assets/pdfs/essays/BROFOS_ESSAYS_v2_pages_214_265.pdf)
+9. [Pages 266-305](./assets/pdfs/essays/BROFOS_ESSAYS_v2_pages_266_305.pdf)
+10. [Pages 306-323](./assets/pdfs/essays/BROFOS_ESSAYS_v2_pages_306_323.pdf)
+11. [Pages 324-351](./assets/pdfs/essays/BROFOS_ESSAYS_v2_pages_324_351.pdf)
+12. [Pages 352-378](./assets/pdfs/essays/BROFOS_ESSAYS_v2_pages_352_378.pdf)
+13. [Pages 379-410](./assets/pdfs/essays/BROFOS_ESSAYS_v2_pages_379_410.pdf)

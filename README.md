@@ -5,6 +5,13 @@ This website hosts a collection of essays and other memorabilia authored by Fred
 ### Volume One
 
 1. [Cover Page](./assets/pdfs/essays/BROFOS_ESSAYS_v1_cover.pdf)
+2. [Pages 1-35](./assets/pdfs/essays/BROFOS_ESSAYS_v1_pages_1_35.pdf)
+3. [Pages 36-84](./assets/pdfs/essays/BROFOS_ESSAYS_v1_pages_36_84.pdf)
+4. [Pages 85-136](./assets/pdfs/essays/BROFOS_ESSAYS_v1_pages_85_136.pdf)
+5. [Pages 137-164](./assets/pdfs/essays/BROFOS_ESSAYS_v1_pages_137_164.pdf)
+6. [Pages 165-201](./assets/pdfs/essays/BROFOS_ESSAYS_v1_pages_165_201.pdf)
+7. [Pages 202-239](./assets/pdfs/essays/BROFOS_ESSAYS_v1_pages_202_239.pdf)
+8. [Pages 240-271](./assets/pdfs/essays/BROFOS_ESSAYS_v1_pages_240_271.pdf)
 
 ### Volume Two
 

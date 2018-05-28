@@ -1,6 +1,6 @@
-## Philatelic Essays by Frederick Brofos
+## Philatelic Essays
 
-This website hosts a collection of essays and other memorabilia authored by Frederick Brofos.
+This website archives a collection of essays and other memorabilia authored by Frederick Brofos.
 
 ### Volume One
 
